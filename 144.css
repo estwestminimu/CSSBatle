@@ -1,0 +1,50 @@
+
+<div></div>
+<div2></div2>
+<div3></div3>
+<div4></div4>
+<style>
+  div {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 200px;
+    height: 75px;
+    background: #F7EC7D;
+    border-radius:0 50px 50px 0;
+  }
+   div2 {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 75px;
+    height: 200px;
+    background: #F7EC7D;
+    border-radius:50px 50px 50px 0;
+  }
+
+  div3 {
+    position: absolute;
+    bottom:74.56px;
+    left: 75px;
+    width: 75px;
+    height: 200px;
+    background: #62306D;
+    border-radius:50px 50px 50px 50px;
+    z-index:50;
+  }
+
+    div4 {
+    position: absolute;
+    bottom:50px;
+    left: 50px;
+    width: 50px;
+    height: 50px;
+    background: #F7EC7D;
+
+  }
+  
+  body
+  {
+  background: #62306D;
+  }  
