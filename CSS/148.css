@@ -1,0 +1,48 @@
+/*
+(100% match)
+*/
+
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
+<style>
+  .c
+  {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: -5px;
+    right:-10px;
+    border:0;
+    background: #6D480A;
+  }
+  
+  div
+  {
+    width: 100px;
+    height: 100px;
+    background: #926927;
+    border-radius: 50%;
+    border: 40px solid  #6D480A;
+  }
+  
+  .a{
+    position: absolute;
+    top: -90px;
+    right:10px;
+
+  }
+  
+  .b{
+    position: absolute;
+    top: 10px;
+    right:-90px;
+
+  }
+
+  
+  body
+  {
+  background: #926927;
+  }
+</style>
