@@ -7,12 +7,11 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 ***
 * In CSSBattle every character counts so if you want a better result I recommend changing the class names to something smaller.
 * `<content>` and associated styles have been added to make the resolution match that on CSSBattle.
-<br>
 * Meaning of colours: <br>
-![#0cce6b](/assets/g.png) 100% match<br>
-![#00B9FB](/assets/b.png) 99 - 99.99% match<br>
-![#ED7D3A](/assets/o.png) 98 - 98.99% match<br>
-![#FF206E](/assets/p.png) 0 - 97.99% match
+ ![#0cce6b](/assets/g.png) 100% match<br>
+ ![#00B9FB](/assets/b.png) 99 - 99.99% match<br>
+ ![#ED7D3A](/assets/o.png) 98 - 98.99% match<br>
+ ![#FF206E](/assets/p.png) 0 - 97.99% match
 <br><br>
 
 # **Solutions**
