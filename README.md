@@ -2,7 +2,6 @@
 All my CSSBattle solutions. These are not the highest scoring solutions because I do this for fun in my spare time.
 <br><br>
 
-
 ### **Info**
 ***
 * In CSSBattle every character counts so if you want a better result I recommend changing the class names to something smaller.
