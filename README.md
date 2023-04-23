@@ -22,6 +22,9 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#13 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%232%20-%20Visibility/13.html)
 * [#15 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%232%20-%20Visibility/15.html)
 
+#### **Battle #7 - Backface**
+* [#35 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%237%20-%20Backface/35.html)
+
 #### **Battle #16 - Aspect**
 * [#90 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2316%20-%20Aspect/90.html)
 * [#95 - ![#0cce6b](/assets/b.png) 99.9% match](/Battle%20%2316%20-%20Aspect/95.html)
@@ -34,7 +37,7 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 #### **Battle #23 - Contain**
 * [#141 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2323%20-%20Contain/141.html)
 
-#### **Battle #24 - Grid**
+#### **Battle #24 - Offset**
 * [#143 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2324%20-%20Offset/143.html)
 * [#144 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2324%20-%20Offset/144.html)
 * [#145 - ![#00B9FB](/assets/b.png) 99.8% match](/Battle%20%2324%20-%20Offset/145.html)
