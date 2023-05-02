@@ -32,6 +32,10 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#90 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2316%20-%20Aspect/90.html)
 * [#95 - ![#0cce6b](/assets/b.png) 99.9% match](/Battle%20%2316%20-%20Aspect/95.html)
 
+#### **Battle #19 - Spacing**
+* [#113 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2319%20-%20Spacing/113.html)
+
+
 #### **Battle #22 - Grid**
 * [#138 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2322%20-%20Grid/139.html)
 * [#139 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2322%20-%20Grid/139.html)
