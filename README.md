@@ -35,6 +35,9 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 #### **Battle #19 - Spacing**
 * [#113 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2319%20-%20Spacing/113.html)
 
+#### **Battle #20 - Hover**
+* [#123 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2320%20-%20Hover/123.html)
+
 #### **Battle #21 - Rotate**
 * [#128 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2321%20-%20Rotate/128.html)
 

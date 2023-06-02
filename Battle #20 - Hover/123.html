@@ -1,0 +1,81 @@
+<!-- 100% match -->
+<content>
+  <div class="container a">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+  <div class="container b">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+  <div class="container c">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+  <div id="cir"></div>
+</content>
+
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .container {
+    position: absolute;
+  }
+
+  .a {
+    right: 85px;
+    bottom: 90px;
+    display: flex;
+  }
+  .b {
+    right: 85px;
+    top: 85px;
+    display: flex;
+  }
+
+  .c {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 85px;
+    top: 110px;
+  }
+
+  .box {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background: #e0e246;
+    margin: 5px 5px 0 0;
+  }
+
+  #cir {
+    width: 20px;
+    height: 20px;
+    background: #ffffff;
+    border-radius: 50px;
+    position: absolute;
+    left: 90px;
+    top: 90px;
+  }
+
+  body {
+    background: #c74e4e;
+  }
+</style>
