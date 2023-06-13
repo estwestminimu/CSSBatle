@@ -58,6 +58,6 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#148 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2324%20-%20Offset/148.html)
 * [#150 - ![#0cce6b](/assets/g.png) 100% match](/Battle%20%2324%20-%20Offset/150.html)
 
-
-
+#### **Battle #25 - Flex**
+* [#151 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2325%20-%20Flex/151.html)
 

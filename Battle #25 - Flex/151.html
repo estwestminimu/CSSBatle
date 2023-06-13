@@ -1,0 +1,76 @@
+<!-- 99.99% match -->
+<content>
+  <div class="a"></div>
+  <div class="b"></div>
+  <div class="c"></div>
+  <div class="d"></div>
+</content>
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .a, .b, .c, .d
+  {
+    position: absolute;
+    background: #D86F45;
+  }
+  
+  .a {
+    bottom:55px;
+    left:130px;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px 20px 10px 10px;
+  }
+  .c
+  {
+    top:55px;
+    left:175px;
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+  
+  }
+  .b
+  {
+
+    top:110px;
+    left:160px;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px 10px 20px 20px;
+  
+  }
+  .d {
+    top:135px;
+    left:155px;
+    width: 90px;
+    height: 65px;
+
+  }
+  .d::before, .d::after
+  {
+    content: "";
+    width: 31.9px;
+    height:63.9px;
+    top:0;
+    left:-6.7px;
+    position:absolute;
+    background:#F5D6B4;
+    border-radius: 0 0 100% 0 ;
+  }
+  .d::after
+  {
+    left:64.9px;
+    border-radius: 0 0 0 100%;
+  }
+  
+  body
+  {
+     background: #F5D6B4;
+  }
+</style>
