@@ -1,0 +1,63 @@
+<!-- 100% match -->
+<content>
+  <div class="content">
+    <div class="a z"></div>
+    <div class="a z"></div>
+    <div class="a"></div>
+    <div class="a b z g"></div>
+    <div class="a b z"></div>
+    <div class="a b" style="background: #e3516e"></div>
+    <div class="a"></div>
+    <div class="a"></div>
+    <div class="a"></div>
+    <div class="a b z g"></div>
+    <div class="a b z"></div>
+    <div class="a b" style="background: #e3516e"></div>
+    <div class="a z"></div>
+    <div class="a z"></div>
+    <div class="a"></div>
+  </div>
+</content>
+
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .a {
+    width: 40px;
+    height: 40px;
+    background: #fade8b;
+    float: left;
+    margin: 0 40px 0 0;
+  }
+  .b {
+    margin: 0 0 00 40px;
+  }
+
+  .content {
+    width: 250px;
+    height: 200px;
+  }
+  .z::after,
+  .g::before {
+    content: "";
+    border-radius: 50%;
+    background: #fade8b;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 10px 0 0 50px;
+  }
+  .g::before {
+    margin: 10px 0 0 -30px;
+  }
+
+  body {
+    background: #e3516e;
+    margin: 50px 0 0 100px;
+  }
+</style>

@@ -61,3 +61,4 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 #### **Battle #25 - Flex**
 * [#151 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2325%20-%20Flex/151.html)
 * [#152 - ![#00B9FB](/assets/b.png) 99.9% match](/Battle%20%2325%20-%20Flex/152.html)
+* [#153 - ![#00B9FB](/assets/g.png) 100% match](/Battle%20%2325%20-%20Flex/153.html)
