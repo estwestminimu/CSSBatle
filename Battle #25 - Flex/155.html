@@ -1,0 +1,66 @@
+<content>
+  <div class="a"></div>
+  <div class="b"></div>
+</content>
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .a,
+  .a::before,
+  .a::after,
+  .b,
+  .b::before,
+  .b::after {
+    position: absolute;
+  }
+
+  .a {
+    bottom: 0;
+    left: 150px;
+  }
+
+  .a::before,
+  .a::after {
+    content: "";
+    height: 260px;
+    width: 30px;
+    background: #060f55;
+    left: -30px;
+    bottom: -20px;
+    border-radius: 50px;
+  }
+  .a::after {
+    left: 100px;
+  }
+
+  .b,
+  .b::before,
+  .b::after {
+    bottom: 0;
+    left: 150px;
+    width: 100px;
+    height: 30px;
+    background: #060f55;
+    bottom: 90px;
+  }
+
+  .b::before,
+  .b::after {
+    content: "";
+    bottom: -60px;
+    left: 0;
+  }
+  .b::after {
+    bottom: 60px;
+  }
+
+  body {
+    margin: 0;
+    background: #6592cf;
+  }
+</style>

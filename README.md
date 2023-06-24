@@ -62,3 +62,4 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#151 - 🟦 99.9% match](/Battle%20%2325%20-%20Flex/151.html)
 * [#152 - 🟦 99.9% match](/Battle%20%2325%20-%20Flex/152.html)
 * [#153 - 🟩 100% match](/Battle%20%2325%20-%20Flex/153.html)
+* [#155 - 🟩 100% match](/Battle%20%2325%20-%20Flex/155.html)
