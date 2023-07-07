@@ -22,6 +22,9 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#13 - 🟩 100% match](/Battle%20%232%20-%20Visibility/13.html)
 * [#15 - 🟩 100% match](/Battle%20%232%20-%20Visibility/15.html)
 
+#### **Battle #4 - Display**
+* [#4 - 🟩 100% match](/Battle%20%234%20-%20Display/26.html)
+
 #### **Battle #7 - Backface**
 * [#35 - 🟩 100% match](/Battle%20%237%20-%20Backface/35.html)
 
@@ -30,7 +33,6 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 
 #### **Battle #13 - Overflow**
 * [#75 - 🟩 100% match](/Battle%20%2313%20-%20Clip/75.html)
-
 
 #### **Battle #16 - Aspect**
 * [#90 - 🟩 100% match](/Battle%20%2316%20-%20Aspect/90.html)
@@ -46,7 +48,7 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#128 - 🟩 100% match](/Battle%20%2321%20-%20Rotate/128.html)
 
 #### **Battle #22 - Grid**
-* [#138 - 🟩 100% match](/Battle%20%2322%20-%20Grid/139.html)
+* [#138 - 🟩 100% match](/Battle%20%2322%20-%20Grid/138.html)
 * [#139 - 🟦 99.9% match](/Battle%20%2322%20-%20Grid/139.html)
 * [#140 - 🟩 100% match](/Battle%20%2322%20-%20Grid/140.html)
 

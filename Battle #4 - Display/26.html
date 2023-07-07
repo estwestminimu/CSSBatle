@@ -1,0 +1,41 @@
+<!-- 100% match -->
+<content>
+  <div class="a" style="top: 40; left: 40"></div>
+  <div class="a" style="top: 40; right: 40"></div>
+  <div class="a" style="bottom: 40; left: 140"></div>
+  <div class="b"></div>
+</content>
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .a,
+  .b {
+    position: absolute;
+  }
+
+  .a {
+    width: 80px;
+    height: 80px;
+    border: solid 20px #060f55;
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  .b {
+    width: 100%;
+    height: 100px;
+    background: #6592cf;
+    z-index: 2;
+    top: 100;
+  }
+
+  body {
+    margin: 0;
+    background: #6592cf;
+  }
+</style>
