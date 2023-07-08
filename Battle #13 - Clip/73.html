@@ -1,0 +1,109 @@
+<!-- 100% match -->
+<content>
+  <div class="ear"></div>
+  <div class="ear" style="left: 225"></div>
+  <div class="head">
+    <div class="hair"></div>
+    <div class="eye"></div>
+    <div class="eye" style="left: 105"></div>
+    <div class="a"></div>
+    <div class="mouth">
+      <div class="c"></div>
+      <div class="c" style="left: 45"></div>
+      <div class="d"></div>
+    </div>
+  </div>
+</content>
+
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+  .head {
+    width: 150px;
+    height: 150px;
+    background: #998235;
+    position: absolute;
+    top: 75;
+    left: 125;
+    border-radius: 50% 50% 40% 40%;
+    overflow: hidden;
+  }
+
+  .hair {
+    position: absolute;
+    left: 55;
+    top: -24;
+    width: 40px;
+    height: 40px;
+    background: #1a4341;
+    rotate: 45deg;
+  }
+
+  .ear {
+    position: absolute;
+    left: 115;
+    top: 65;
+    width: 40px;
+    height: 40px;
+    background: #1a4341;
+    border-radius: 50%;
+    border: solid 10px #998235;
+  }
+  .eye {
+    position: absolute;
+    left: 25;
+    bottom: 70;
+    width: 20px;
+    height: 20px;
+    background: #1a4341;
+    border-radius: 50%;
+  }
+
+  .mouth {
+    position: absolute;
+    left: 25;
+    bottom: 15;
+    width: 100px;
+    height: 40px;
+    background: #ffffff;
+    border-radius: 20px 20px 50px 50px;
+    overflow: hidden;
+  }
+
+  .a {
+    position: absolute;
+    left: 70;
+    bottom: 30;
+    width: 10px;
+    height: 35px;
+    background: #1a4341;
+    z-index: 5;
+  }
+
+  .c {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: solid 10px #1a4341;
+    z-index: 1;
+    top: -10;
+    left: 15;
+  }
+
+  .d {
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    background: #ffffff;
+    z-index: 3;
+  }
+
+  body {
+    background: #f3ac3c;
+  }
+</style>

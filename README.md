@@ -35,7 +35,9 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 
 #### **Battle #13 - Overflow**
 * [#71 - 🟦 99.9% match](/Battle%20%2313%20-%20Clip/71.html)
+* [#73 - 🟩 100% match](/Battle%20%2313%20-%20Clip/73.html)
 * [#75 - 🟩 100% match](/Battle%20%2313%20-%20Clip/75.html)
+
 
 #### **Battle #16 - Aspect**
 * [#90 - 🟩 100% match](/Battle%20%2316%20-%20Aspect/90.html)
