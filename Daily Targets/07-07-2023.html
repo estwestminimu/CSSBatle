@@ -1,0 +1,60 @@
+<!-- 100% match -->
+<content>
+  <div class="a"></div>
+  <div class="b"></div>
+  <div class="c"></div>
+</content>
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+  .a,
+  .a::before,
+  .a::after,
+  .b,
+  .b::before,
+  .b::after,
+  .c,
+  .c::before,
+  .c::after {
+    position: absolute;
+    top: 50;
+    left: 100;
+    width: 40px;
+    height: 120px;
+  }
+
+  .a::before,
+  .a::after,
+  .b::before,
+  .b::after,
+  .c::before,
+  .c::after {
+    content: "";
+    background: #f7ec7d;
+    top: 0;
+    left: -40;
+    border-radius: 40px;
+  }
+  .a::after,
+  .b::after,
+  .c::after {
+    left: 40;
+  }
+
+  .b {
+    left: 260 !important;
+  }
+  .c {
+    left: 180 !important;
+    rotate: 90deg;
+    top: 130px;
+  }
+
+  body {
+    background: #62306d;
+  }
+</style>

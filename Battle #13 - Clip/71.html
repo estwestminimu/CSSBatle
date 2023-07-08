@@ -1,0 +1,124 @@
+<!-- 99.99% match -->
+<content>
+  <div class="head">
+    <div class="forehead"></div>
+    <div class="eye"></div>
+    <div class="trunk"></div>
+    <div class="tusk"></div>
+    <div class="ear">
+      <div class="a"></div>
+    </div>
+    <div class="ear" style="left: 160">
+      <div class="a" style="right: 40px"></div>
+    </div>
+  </div>
+</content>
+
+<style>
+  content {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+
+  .forehead {
+    width: 120px;
+    height: 30px;
+    background: #1a4341;
+    position: absolute;
+    top: 60;
+    left: 30;
+    z-index: 4;
+  }
+
+  .head {
+    width: 180px;
+    height: 180px;
+    background: #1a4341;
+    border-radius: 90%;
+    position: absolute;
+    top: 60;
+    left: 110;
+  }
+
+  .eye {
+    position: relative;
+    width: 20px;
+    height: 50px;
+    top: 70;
+    left: 80;
+  }
+
+  .eye::before,
+  .eye::after {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: #0b2429;
+    left: 20;
+
+    border-radius: 50%;
+    border: solid 10px #998235;
+  }
+  .eye::before {
+    left: -40;
+  }
+
+  .trunk {
+    width: 40px;
+    height: 140px;
+    background: #0b2429;
+    position: absolute;
+    left: 70;
+    bottom: -80;
+    border-radius: 50px;
+    z-index: 2;
+  }
+
+  .tusk {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 30;
+    bottom: -70;
+    border-radius: 50%;
+    border: solid 20px #ffffff;
+  }
+  .tusk::after {
+    content: "";
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    background: #998235;
+    top: 40;
+    left: -20;
+  }
+
+  .ear {
+    width: 80px;
+    height: 180px;
+    background: #1a4341;
+    position: absolute;
+    left: -60px;
+    border-radius: 50%;
+    z-index: -2;
+    bottom: 0;
+    overflow: hidden;
+  }
+  .a {
+    position: relative;
+    border-radius: 50%;
+    z-index: 2;
+    background: #0b2429;
+    width: 90px;
+    height: 180px;
+    z-index: 2;
+    margin-left: 15;
+  }
+
+  body {
+    background: #998235;
+  }
+</style>

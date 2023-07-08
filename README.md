@@ -5,12 +5,14 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 ### **Info**
 ***
 * In CSSBattle every character counts so if you want a better result I recommend changing the class names to something smaller.
+* Completing a task from the 'Daily Targets' category after the deadline (i.e. on a different day) blocks the possibility of checking the result for free, which is why there is no result listed for some assignments.
 * `<content>` and associated styles have been added to make the resolution match that on CSSBattle.
 * Meaning of colours: <br>
  🟩 100% match<br>
  🟦 99 - 99.99% match<br>
  🟧 98 - 98.99% match<br>
- 🟥 0 - 97.99% match
+ 🟥 0 - 97.99% match<br>
+ 🟣 Undetermined
 <br><br>
 
 # **Solutions**
@@ -32,6 +34,7 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#53 - 🟩 100% match](/Battle%20%2311%20-%20Overflow/53.html)
 
 #### **Battle #13 - Overflow**
+* [#71 - 🟦 99.9% match](/Battle%20%2313%20-%20Clip/71.html)
 * [#75 - 🟩 100% match](/Battle%20%2313%20-%20Clip/75.html)
 
 #### **Battle #16 - Aspect**
@@ -69,3 +72,8 @@ All my CSSBattle solutions. These are not the highest scoring solutions because 
 * [#152 - 🟦 99.9% match](/Battle%20%2325%20-%20Flex/152.html)
 * [#153 - 🟩 100% match](/Battle%20%2325%20-%20Flex/153.html)
 * [#155 - 🟩 100% match](/Battle%20%2325%20-%20Flex/155.html)
+
+#### **Daily Targets**
+* [28/06/2023  🟣 Undetermined](/Daily%20Targets/28-06-2023.html)
+* [07/07/2023 - 🟩 100% match](/Daily%20Targets/07-07-2023.html)
+* [08/07/2023 - 🟩 100% match](/Daily%20Targets/08-07-2023.html)
